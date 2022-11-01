@@ -2,11 +2,12 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='PlantUML-SysMLv2 P2 Site 1.1' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1614824213075'/>
+    <property name='p2.timestamp' value='1667264198882'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='../../releases/1.1.25.202102080324'/>
     <child location='../../releases/1.1.25.202103040215'/>
+    <child location='../../releases/1.1.25.202211010055'/>
   </children>
 </repository>
