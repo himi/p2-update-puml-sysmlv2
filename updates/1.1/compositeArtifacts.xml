@@ -2,13 +2,14 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='PlantUML-SysMLv2 P2 Site 1.1' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1667264198879'/>
+    <property name='p2.timestamp' value='1667533210780'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='../../releases/1.1.25.202102080324'/>
     <child location='../../releases/1.1.25.202103032001'/>
     <child location='../../releases/1.1.25.202103040215'/>
     <child location='../../releases/1.1.25.202211010055'/>
+    <child location='../../releases/1.1.25.202211040339'/>
   </children>
 </repository>
